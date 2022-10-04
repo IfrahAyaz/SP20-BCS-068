@@ -1,0 +1,50 @@
+#name{
+    height: 65px;
+    background-color: blanchedalmond;
+    color: black;
+    width: 680px;
+    text-align: center;
+    padding-top: 17px;
+    margin: -8px;
+    padding: 0px;
+    display: inline-block;
+
+}
+#name1{
+    float: right; 
+    height: 65px;
+    background-color: azure;
+    color: black;
+    width: 684px;
+    text-align: center;
+    padding-top: 17px;
+    margin: -8px;
+    padding: 0px;
+    display: inline-block;
+
+}
+#name2{
+    height: 75px;
+    background-color: black;
+    color: white;
+    width: 1370px;
+    margin: -10px;
+    padding: 0px;
+    word-spacing: 3em;
+    text-align: center;
+    padding-top: 17px;
+
+}
+#name3{
+    height: 65px;
+    background-color: blanchedalmond;
+    color: black;
+    width: 1370px;
+    text-align: center;
+    padding-top: 50px;
+    margin: -8px;
+    padding: 0px;
+    padding-top: 13px;
+    text-align: center;
+
+}
