@@ -48,3 +48,29 @@
     text-align: center;
 
 }
+
+
+.flex_container{
+    display:flex;
+    flex-direction: row;
+}
+
+.flex-child{
+    border:1px solid black;
+    width:100vh;
+    overflow:hidden;
+}
+
+.paragraph_center{
+          padding: 0px;
+          text-align: center;
+          background-color: brown;
+          color: white;
+          display: inline-block;
+          font-size:70px;
+}
+
+.paragraph{
+    width: 50%;
+    margin:auto;
+}
